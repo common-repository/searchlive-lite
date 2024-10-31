@@ -1,0 +1,33 @@
+.searchlive_settings_page{
+	
+}
+.searchlive_settings_page h1{
+	font-size: 23px;
+    font-weight: 400;
+    margin: 0;
+    padding: 9px 0 4px 0;
+    line-height: 1.3;
+}
+.searchlive_settings_page .slive_section{
+	margin-top: 20px;
+}
+.searchlive_settings_page .slive_field{
+	margin-bottom: 30px;
+	width: 100%;
+}
+.searchlive_settings_page .field_title{
+	width: 100%;
+	margin-bottom: 5px;
+}
+.searchlive_settings_page .field_content{
+	width: 100%;
+}
+.searchlive_settings_page .field_content input[type="text"]{
+	min-width: 320px;
+}
+.searchlive_settings_page .field_desc p{
+	font-size: 14px;
+    font-style: italic;
+	color: #777;
+	max-width: 500px;
+}
